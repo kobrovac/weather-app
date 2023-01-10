@@ -1,0 +1,50 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    background: linear-gradient(180.3deg,
+            rgb(221, 221, 221) 5.5%,
+            rgb(110, 136, 161) 90.2%);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h5 {
+    padding: 0 0 10px 0;
+}
+
+.container {
+    margin: 30px auto;
+    padding: 30px 30px;
+    background: #fff;
+    border-radius: 20px;
+}
+
+.buttonSearch {
+    color: #385170;
+    background: #fff;
+    border-color: #385170;
+}
+
+.col-8 {
+    text-align: left;
+}
+
+.currentDegrees {
+    font-size: 80px;
+    vertical-align: top;
+    color: #385170;
+}
+
+h1 {
+    font-size: 46px;
+}
+
+.button {
+    background: #385170;
+    transition: all 200ms ease-in-out;
+}
+
+.button:hover {
+    background: #fff;
+    border: 1px solid #385170;
+    color: #385170;
+}
